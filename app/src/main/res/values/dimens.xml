@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textSizeGreeting">30sp</dimen>
+    <dimen name="textSizeRegular">24sp</dimen>
+    <dimen name="padding_top_among_text_views">6dp</dimen>
+    <dimen name="padding_top_linear_layout">12dp</dimen>
+    <dimen name="padding_left_linear_layout">18dp</dimen>
+</resources>

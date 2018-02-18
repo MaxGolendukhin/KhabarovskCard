@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">KhabarovskCard</string>
+    <string name="greeting">Best wishes from Khabarovsk</string>
+    <string name="wiki_link">https://en.wikipedia.org/wiki/Khabarovsk</string>
+    <string name="wiki_name">Wikipedia</string>
+    <string name="maps_uri">geo:48.47,135.1?z=11</string>
+    <string name="maps_name">Maps</string>
+</resources>
