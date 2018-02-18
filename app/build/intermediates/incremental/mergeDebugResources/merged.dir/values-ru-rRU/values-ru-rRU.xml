@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KhabarovskCard</string>
+    <string name="greeting">С наилучшими пожеланиями из Хабаровска</string>
+    <string name="maps_name">Карты</string>
+    <string name="maps_uri">geo:48.47,135.1?z=11</string>
+    <string name="wiki_link">https://ru.wikipedia.org/wiki/Хабаровск</string>
+    <string name="wiki_name">Википедия</string>
+</resources>
